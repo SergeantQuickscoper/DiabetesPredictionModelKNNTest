@@ -1,2 +1,2 @@
 # DiabetesPredictionModelKNNTest
-ML Model to predict whether a person will have diabetes or not using the KNN algorithm. This is mainly a TEST REPO and not a serious project. Just a way for me to learn about the KNN Algorithm.
+ML Model to predict whether a person will have diabetes or not using the KNN algorithm. This is mainly a TEST REPO using a dataset from Simplilearn and not a serious project. Just a way for me to learn about the KNN Algorithm. For those interested in the resources and tutorial I referenced to make this repo heres a link to thier video about KNN in particular: https://www.youtube.com/watch?v=4HKqjENq9OU
